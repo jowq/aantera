@@ -232,6 +232,10 @@ button{
 	outline: none!important;
 }
 
+.btn-xl{
+	padding: 16px 40px;
+	font-size: 28px;
+}
 .a-block{
 	width:100%;
 	text-align:left;
@@ -264,13 +268,6 @@ button{
 }
 
 
-/* = Forms
--------------------------------------------------------------- */
-
-.form-control{
-	border-color:rgba(0,0,0,.1);
-	box-shadow:none;
-}
 
 
 
@@ -440,6 +437,18 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-weight:bold;
 	font-family:Ubuntu;
 }
+.h1-45106-style{
+	font-family:"PT Serif";
+}
+.btn-style{
+	font-weight:bold;
+}
+.h1-20-style{
+	font-family:"PT Serif";
+}
+.p-17-style{
+	font-size:20px;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -511,6 +520,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bg-contact-us-dark{
 	background-image:url("img/contact-us-dark.jpg");
 }
+
+/* = Custom Bric Data
+-------------------------------------------------------------- */
 
 
 
