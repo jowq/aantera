@@ -1,44 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-<loc>aantera.com</loc>
-<lastmod>2021-04-02</lastmod>
-<changefreq>Weekly</changefreq>
-<priority>1.0</priority>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>aantera.com</loc>
+	<lastmod>2021-06-07</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>aantera.com/img/logo-white.svg</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>aantera.com/img/typewriter.svg</image:loc>
+	<image:title>typewriter</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>aantera.com/img/cycling.svg</image:loc>
+	<image:title>cycling</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>aantera.com/img/achieve.svg</image:loc>
+	<image:title>achieve</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>aantera.com/img/sap-logo.png</image:loc>
+	<image:title>sap%20logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>aantera.com/img/oraclenetsuite-logo.png</image:loc>
+	<image:title>oraclenetsuite%20logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>aantera.com/img/salesforce-logo.png</image:loc>
+	<image:title>salesforce%20logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>aantera.com/img/workday-logo.png</image:loc>
+	<image:title>workday%20logo</image:title>
+	</image:image>
 </url>
 <url>
-<loc>aantera.com/what-is-rpa.html</loc>
-<lastmod>2021-04-02</lastmod>
-<changefreq>Weekly</changefreq>
-<priority>0.5</priority>
+	<loc>aantera.com/what-is-rpa.html</loc>
+	<lastmod>2021-06-07</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>aantera.com/img/logo-white.svg</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>aantera.com/img/benefits.jpg</image:loc>
+	<image:title>benefits</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>aantera.com/img/brief-history.jpg</image:loc>
+	<image:title>brief%20history</image:title>
+	</image:image>
 </url>
 <url>
-<loc>aantera.com/use-cases.html</loc>
-<lastmod>2021-04-02</lastmod>
-<changefreq>Weekly</changefreq>
-<priority>0.5</priority>
+	<loc>aantera.com/use-cases.html</loc>
+	<lastmod>2021-06-07</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>aantera.com/img/logo-white.svg</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>aantera.com/img/accounting-finance.jpg</image:loc>
+	<image:title>accounting%20finance</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>aantera.com/img/human-resource.jpg</image:loc>
+	<image:title>human%20resource</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>aantera.com/img/customer-service.jpg</image:loc>
+	<image:title>customer%20service</image:title>
+	</image:image>
 </url>
 <url>
-<loc>aantera.com/careers.html</loc>
-<lastmod>2021-04-02</lastmod>
-<changefreq>Weekly</changefreq>
-<priority>0.5</priority>
+	<loc>aantera.com/careers.html</loc>
+	<lastmod>2021-06-07</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>aantera.com/img/logo-white.svg</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
 </url>
 <url>
-<loc>aantera.com/contact-us.html</loc>
-<lastmod>2021-04-02</lastmod>
-<changefreq>Weekly</changefreq>
-<priority>0.5</priority>
+	<loc>aantera.com/contact-us.html</loc>
+	<lastmod>2021-06-07</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>aantera.com/img/logo-white.svg</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
 </url>
 <url>
-<loc>aantera.com/terms.html</loc>
-<lastmod>2021-04-02</lastmod>
-<changefreq>Weekly</changefreq>
-<priority>0.5</priority>
+	<loc>aantera.com/terms.html</loc>
+	<lastmod>2021-06-07</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>aantera.com/img/logo-white.svg</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
 </url>
 <url>
-<loc>aantera.com/privacy.html</loc>
-<lastmod>2021-04-02</lastmod>
-<changefreq>Weekly</changefreq>
-<priority>0.5</priority>
+	<loc>aantera.com/privacy.html</loc>
+	<lastmod>2021-06-07</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>aantera.com/img/logo-white.svg</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
 </url>
 </urlset>
