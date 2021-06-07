@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>aantera.com</loc>
-	<lastmod>2021-06-07</lastmod>
+	<lastmod>2021-06-08</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>aantera.com/img/logo-white.svg</image:loc>
+	<image:loc>aantera.com/img/logo-black.png</image:loc>
 	<image:title>logo</image:title>
 	</image:image>
 	<image:image>
@@ -40,9 +40,13 @@
 </url>
 <url>
 	<loc>aantera.com/what-is-rpa.html</loc>
-	<lastmod>2021-06-07</lastmod>
+	<lastmod>2021-06-08</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<image:image>
+	<image:loc>aantera.com/img/logo-black.png</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
 	<image:image>
 	<image:loc>aantera.com/img/benefits.jpg</image:loc>
 	<image:title>benefits</image:title>
@@ -54,7 +58,7 @@
 </url>
 <url>
 	<loc>aantera.com/use-cases.html</loc>
-	<lastmod>2021-06-07</lastmod>
+	<lastmod>2021-06-08</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -72,33 +76,33 @@
 </url>
 <url>
 	<loc>aantera.com/careers.html</loc>
-	<lastmod>2021-06-07</lastmod>
+	<lastmod>2021-06-08</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
 <url>
 	<loc>aantera.com/contact-us.html</loc>
-	<lastmod>2021-06-07</lastmod>
+	<lastmod>2021-06-08</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
 <url>
 	<loc>aantera.com/terms.html</loc>
-	<lastmod>2021-06-07</lastmod>
+	<lastmod>2021-06-08</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>aantera.com/img/logo-white.svg</image:loc>
+	<image:loc>aantera.com/img/logo-black.png</image:loc>
 	<image:title>logo</image:title>
 	</image:image>
 </url>
 <url>
 	<loc>aantera.com/privacy.html</loc>
-	<lastmod>2021-06-07</lastmod>
+	<lastmod>2021-06-08</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>aantera.com/img/logo-white.svg</image:loc>
+	<image:loc>aantera.com/img/logo-black.png</image:loc>
 	<image:title>logo</image:title>
 	</image:image>
 </url>
