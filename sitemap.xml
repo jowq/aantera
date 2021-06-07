@@ -6,7 +6,7 @@
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>aantera.com/img/logo-black.png</image:loc>
+	<image:loc>aantera.com/img/logo-white.png</image:loc>
 	<image:title>logo</image:title>
 	</image:image>
 	<image:image>
@@ -43,10 +43,6 @@
 	<lastmod>2021-06-08</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-	<image:loc>aantera.com/img/logo-black.png</image:loc>
-	<image:title>logo</image:title>
-	</image:image>
 	<image:image>
 	<image:loc>aantera.com/img/benefits.jpg</image:loc>
 	<image:title>benefits</image:title>
@@ -92,7 +88,7 @@
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>aantera.com/img/logo-black.png</image:loc>
+	<image:loc>aantera.com/img/logo-white.png</image:loc>
 	<image:title>logo</image:title>
 	</image:image>
 </url>
@@ -102,7 +98,7 @@
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>aantera.com/img/logo-black.png</image:loc>
+	<image:loc>aantera.com/img/logo-white.png</image:loc>
 	<image:title>logo</image:title>
 	</image:image>
 </url>
