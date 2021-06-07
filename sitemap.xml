@@ -44,10 +44,6 @@
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>aantera.com/img/logo-white.svg</image:loc>
-	<image:title>logo</image:title>
-	</image:image>
-	<image:image>
 	<image:loc>aantera.com/img/benefits.jpg</image:loc>
 	<image:title>benefits</image:title>
 	</image:image>
@@ -61,10 +57,6 @@
 	<lastmod>2021-06-07</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-	<image:loc>aantera.com/img/logo-white.svg</image:loc>
-	<image:title>logo</image:title>
-	</image:image>
 	<image:image>
 	<image:loc>aantera.com/img/accounting-finance.jpg</image:loc>
 	<image:title>accounting%20finance</image:title>
@@ -83,20 +75,12 @@
 	<lastmod>2021-06-07</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-	<image:loc>aantera.com/img/logo-white.svg</image:loc>
-	<image:title>logo</image:title>
-	</image:image>
 </url>
 <url>
 	<loc>aantera.com/contact-us.html</loc>
 	<lastmod>2021-06-07</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-	<image:loc>aantera.com/img/logo-white.svg</image:loc>
-	<image:title>logo</image:title>
-	</image:image>
 </url>
 <url>
 	<loc>aantera.com/terms.html</loc>

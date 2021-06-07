@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
-	aantera
-	About: A shiny new Blocs website.
+	Aantera Robotic Process Automation (RPA)
+	About: Aantera implements award winning Robotic Process Automation (RPA) with faster ROI than industry average
 	Author: anon
 	Version: 1.0
 	Built with Blocs
@@ -243,6 +243,10 @@ a:hover{text-decoration: none; cursor:pointer;}
 	margin-top:10px;
 	margin-bottom:20px;
 }
+.mg-lg{
+	margin-top:10px;
+	margin-bottom:40px;
+}
 img.mg-sm,img.mg-md,img.mg-lg{
 	margin-top: 0;
 }
@@ -458,21 +462,25 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-family:"PT Serif";
 }
 .link-aantera-style{
-	font-family:Ubuntu;
-	font-weight:bold;
+	font-family:"Josefin Sans";
+	font-weight:normal;
 	background-color:transparent;
+	font-size:28px;
 }
 .link-0-style{
-	font-family:Ubuntu;
-	font-weight:bold;
+	font-family:"Josefin Sans";
+	font-weight:normal;
+	font-size:28px;
 }
 .link-0-aantera-style{
-	font-family:Ubuntu;
-	font-weight:bold;
+	font-family:"Josefin Sans";
+	font-weight:normal;
+	font-size:28px;
 }
 .link-29120-style{
-	font-family:Ubuntu;
-	font-weight:bold;
+	font-family:"Josefin Sans";
+	font-weight:normal;
+	font-size:28px;
 }
 .link-2593-style{
 	font-family:Ubuntu;
@@ -586,6 +594,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .ltc-snow:hover{
 	color:#ccc8c8!important;
+}
+.ltc-black{
+	color:#000000!important;
+}
+.ltc-black:hover{
+	color:#000000!important;
 }
 .ltc-dark-lava{
 	color:#383838!important;
